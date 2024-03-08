@@ -1,2 +1,2 @@
 all: code.c
-  gcc code.c
+	gcc code.c
